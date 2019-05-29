@@ -15,6 +15,7 @@ State of the rig:
 - Glasses don't fold yet and are currently tied only to the hat while the hat is only in Head space.
 
 To-do List:
+- Make the rig scaleable. Certain joint chains rely on distance calculations and a change is cale doesn't currently tie into it.
 
 - I want to add a squash to the puffy part of the sleeves for when the arms are at his side.
 
