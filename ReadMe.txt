@@ -1,6 +1,8 @@
 Taako Rig
 
-05 - 29 - 19
+To get started, just download the files into the correct folders of the Maya project you want to use and the textures should load without issue.
+
+06 - 25 - 19
 
 Version 0.7
 
