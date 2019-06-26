@@ -2,6 +2,8 @@ Taako Rig
 
 To get started, just download the files into the correct folders of the Maya project you want to use and the textures should load without issue.
 
+Taako model by Danny Sweeney
+
 06 - 25 - 19
 
 Version 0.7
