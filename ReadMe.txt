@@ -2,6 +2,8 @@ Taako Rig
 
 To get started, just download the files into the correct folders of the Maya project you want to use and the textures should load without issue.
 
+If you notice anything early on that you want added or see something that you feel should be different, let me know and I'll look at addressing it right away.
+
 Taako model by Danny Sweeney
 
 06 - 25 - 19
@@ -21,6 +23,8 @@ State of the rig:
 - Space switch is there for the IK controls, the hat, glasses, UmbraStaff, and eye controls.
 
 To-do List:
+- Spine is currently just a 3 control FK chain which seems to suffice the rig.
+
 - Fully integrate the UmbraStaff into the Taako rig - There are current scaling issues when it comes to the shield geo.
 
 - I want to add a squash to the puffy part of the sleeves for when the arms are at his side.
