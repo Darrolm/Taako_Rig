@@ -6,6 +6,14 @@ If you notice anything early on that you want added or see something that you fe
 
 Taako model by Danny Sweeney
 
+
+08 - 22 - 19
+
+Version 0.8
+
+Update: Rig now has face rig added in for animation. Toggle is on the head control. 
+
+
 06 - 25 - 19
 
 Version 0.7
