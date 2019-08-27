@@ -11,7 +11,9 @@ Taako model by Danny Sweeney
 
 Version 0.8
 
-Update: Rig now has face rig added in for animation. Toggle is on the head control. 
+Update: Rig now has face rig added in for animation. Visibility toggle for face, hair, hat, shawl, and shirt can also now be found on the Master control instead of split up. I also added a proximity toggle that applies to the hair, hat, and shirt controls so that they will be hidden until the cursor moves towards them.
+
+Additionally, I've adjusted control colors a lot. I opted to switch the left and right colors while making the blue a bit lighter. I've also put in other colors in various places like the hair, hat, and auto controls.
 
 
 06 - 25 - 19
